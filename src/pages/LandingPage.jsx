@@ -6,7 +6,7 @@ const LandingPage = () => {
   return (
     <div className="landing-page">
       <h1>Welcome to PopX</h1>
-      <p>Lorem ipsum dolor sit amet,<br />consectetur adipiscing elit,</p>
+      <p>Manage your agency, clients and<br />campaigns all in one place.</p>
       <button className="btn-primary" onClick={() => navigate('/signup')}>
         Create Account
       </button>
