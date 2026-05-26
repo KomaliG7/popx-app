@@ -11,7 +11,7 @@ const LoginPage = () => {
     <div className="login-page">
       <h1>Signin to your<br />PopX account</h1>
       <p className="subtitle">
-        Lorem ipsum dolor sit amet,<br />consectetur adipiscing elit,
+          Welcome back! Please enter your<br />credentials to access your account.
       </p>
 
       <div className="input-group">
